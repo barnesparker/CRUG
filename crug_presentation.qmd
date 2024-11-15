@@ -1,0 +1,10 @@
+---
+title: "R Packages + Error Handling"
+author: "Parker Barnes"
+format: revealjs
+---
+
+
+
+
+
